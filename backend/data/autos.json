@@ -1,0 +1,1244 @@
+[
+ {
+  "id": "ferrari-488-gtb",
+  "marca": "Ferrari",
+  "modelo": "488 GTB",
+  "nombre": "Ferrari 488 GTB",
+  "anio": 2015,
+  "categoria": "Superdeportivo",
+  "pais": "Italia",
+  "hp": 661,
+  "epoca": "Moderno",
+  "descripcion": "V8 biturbo central con 661 hp y un chasis de aluminio ultraligero.",
+  "imagen": "/static/autos/ferrari-488-gtb.jpg",
+  "credito": {
+   "autor": "Vauxford",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Ferrari_488_GTB_Spider_S-A_3.9_Front.jpg"
+  }
+ },
+ {
+  "id": "ferrari-sf90",
+  "marca": "Ferrari",
+  "modelo": "SF90 Stradale",
+  "nombre": "Ferrari SF90 Stradale",
+  "anio": 2019,
+  "categoria": "Superdeportivo",
+  "pais": "Italia",
+  "hp": 986,
+  "epoca": "Moderno",
+  "descripcion": "Híbrido enchufable con tres motores eléctricos y casi 1000 hp.",
+  "imagen": "/static/autos/ferrari-sf90.jpg",
+  "credito": {
+   "autor": "Alexandre Prevot from Nancy, France",
+   "licencia": "CC BY-SA 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Red_2019_Ferrari_SF90_Stradale_%2848264238897%29_%28cropped%29.jpg"
+  }
+ },
+ {
+  "id": "lamborghini-huracan",
+  "marca": "Lamborghini",
+  "modelo": "Huracán",
+  "nombre": "Lamborghini Huracán",
+  "anio": 2014,
+  "categoria": "Superdeportivo",
+  "pais": "Italia",
+  "hp": 631,
+  "epoca": "Moderno",
+  "descripcion": "V10 atmosférico de 5.2 litros con tracción integral.",
+  "imagen": "/static/autos/lamborghini-huracan.jpg",
+  "credito": {
+   "autor": "MrWalkr",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2017_Lamborghini_Huracan_LP610.jpg"
+  }
+ },
+ {
+  "id": "lamborghini-aventador",
+  "marca": "Lamborghini",
+  "modelo": "Aventador",
+  "nombre": "Lamborghini Aventador",
+  "anio": 2011,
+  "categoria": "Superdeportivo",
+  "pais": "Italia",
+  "hp": 690,
+  "epoca": "Moderno",
+  "descripcion": "V12 de 6.5 litros y puertas de tijera.",
+  "imagen": "/static/autos/lamborghini-aventador.jpg",
+  "credito": {
+   "autor": "Calreyn88",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Lamborghini_Aventador_S_%2844554%29.jpg"
+  }
+ },
+ {
+  "id": "porsche-911-992",
+  "marca": "Porsche",
+  "modelo": "911 Carrera (992)",
+  "nombre": "Porsche 911 Carrera (992)",
+  "anio": 2019,
+  "categoria": "Deportivo",
+  "pais": "Alemania",
+  "hp": 379,
+  "epoca": "Moderno",
+  "descripcion": "El deportivo de motor trasero más famoso del mundo, en su generación más reciente.",
+  "imagen": "/static/autos/porsche-911-992.jpg",
+  "credito": {
+   "autor": "Alexander Migl",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2025_Porsche_992_Carrera_convertible_DSC_7026.jpg"
+  }
+ },
+ {
+  "id": "porsche-718-cayman",
+  "marca": "Porsche",
+  "modelo": "718 Spyder",
+  "nombre": "Porsche 718 Spyder",
+  "anio": 2019,
+  "categoria": "Deportivo",
+  "pais": "Alemania",
+  "hp": 414,
+  "epoca": "Moderno",
+  "descripcion": "Roadster de motor central con un seis cilindros bóxer atmosférico.",
+  "imagen": "/static/autos/porsche-718-cayman.jpg",
+  "credito": {
+   "autor": "Alexander Migl",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Porsche_718_Boxster_Spyder_IMG_2961.jpg"
+  }
+ },
+ {
+  "id": "mclaren-720s",
+  "marca": "McLaren",
+  "modelo": "720S",
+  "nombre": "McLaren 720S",
+  "anio": 2017,
+  "categoria": "Superdeportivo",
+  "pais": "Reino Unido",
+  "hp": 710,
+  "epoca": "Moderno",
+  "descripcion": "Monocasco de fibra de carbono y 710 hp de V8 biturbo.",
+  "imagen": "/static/autos/mclaren-720s.jpg",
+  "credito": {
+   "autor": "Vauxford",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_McLaren_720S_V8_S-A_4.0.jpg"
+  }
+ },
+ {
+  "id": "mclaren-p1",
+  "marca": "McLaren",
+  "modelo": "P1",
+  "nombre": "McLaren P1",
+  "anio": 2013,
+  "categoria": "Superdeportivo",
+  "pais": "Reino Unido",
+  "hp": 903,
+  "epoca": "Moderno",
+  "descripcion": "Hiperdeportivo híbrido, uno de los tres grandes de su época.",
+  "imagen": "/static/autos/mclaren-p1.jpg",
+  "credito": {
+   "autor": "Axion23 (original) Tony Patt (cropped)",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:McLaren_P1.jpg"
+  }
+ },
+ {
+  "id": "bugatti-chiron",
+  "marca": "Bugatti",
+  "modelo": "Chiron",
+  "nombre": "Bugatti Chiron",
+  "anio": 2016,
+  "categoria": "Superdeportivo",
+  "pais": "Francia",
+  "hp": 1479,
+  "epoca": "Moderno",
+  "descripcion": "W16 cuádruple turbo, supera los 400 km/h.",
+  "imagen": "/static/autos/bugatti-chiron.jpg",
+  "credito": {
+   "autor": "Calreyn88",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_1.jpg"
+  }
+ },
+ {
+  "id": "bugatti-veyron",
+  "marca": "Bugatti",
+  "modelo": "Veyron",
+  "nombre": "Bugatti Veyron",
+  "anio": 2005,
+  "categoria": "Superdeportivo",
+  "pais": "Francia",
+  "hp": 987,
+  "epoca": "Moderno",
+  "descripcion": "El primer auto de producción en superar los 400 km/h.",
+  "imagen": "/static/autos/bugatti-veyron.jpg",
+  "credito": {
+   "autor": "M 93",
+   "licencia": "CC BY-SA 3.0 de",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg"
+  }
+ },
+ {
+  "id": "nissan-gtr-r35",
+  "marca": "Nissan",
+  "modelo": "GT-R (R35)",
+  "nombre": "Nissan GT-R (R35)",
+  "anio": 2007,
+  "categoria": "Deportivo",
+  "pais": "Japón",
+  "hp": 479,
+  "epoca": "Moderno",
+  "descripcion": "Apodado Godzilla: tracción integral y aceleración de superdeportivo.",
+  "imagen": "/static/autos/nissan-gtr-r35.jpg",
+  "credito": {
+   "autor": "OSX",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2009-2010_Nissan_GT-R_%28R35%29_coupe_01.jpg"
+  }
+ },
+ {
+  "id": "toyota-gr-supra",
+  "marca": "Toyota",
+  "modelo": "GR Supra",
+  "nombre": "Toyota GR Supra",
+  "anio": 2019,
+  "categoria": "Deportivo",
+  "pais": "Japón",
+  "hp": 335,
+  "epoca": "Moderno",
+  "descripcion": "Seis cilindros en línea y tracción trasera, el regreso de un mito.",
+  "imagen": "/static/autos/toyota-gr-supra.png",
+  "credito": {
+   "autor": "Gold Pony",
+   "licencia": "CC BY 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2020_Toyota_GR_Supra_%28United_States%29.png"
+  }
+ },
+ {
+  "id": "mazda-mx5-nd",
+  "marca": "Mazda",
+  "modelo": "MX-5 Miata (ND)",
+  "nombre": "Mazda MX-5 Miata (ND)",
+  "anio": 2015,
+  "categoria": "Deportivo",
+  "pais": "Japón",
+  "hp": 155,
+  "epoca": "Moderno",
+  "descripcion": "Roadster ligero y divertido, el descapotable más vendido de la historia.",
+  "imagen": "/static/autos/mazda-mx5-nd.jpg",
+  "credito": {
+   "autor": "根川大橋 (Negawa Ohashi)",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Mazda_Roadster_%28MX-5%29_by_Negawa_Bridge_%28cropped%29.jpg"
+  }
+ },
+ {
+  "id": "honda-nsx-2016",
+  "marca": "Honda",
+  "modelo": "NSX (2016)",
+  "nombre": "Honda NSX (2016)",
+  "anio": 2016,
+  "categoria": "Superdeportivo",
+  "pais": "Japón",
+  "hp": 573,
+  "epoca": "Moderno",
+  "descripcion": "Híbrido con tres motores eléctricos y V6 biturbo.",
+  "imagen": "/static/autos/honda-nsx-2016.jpg",
+  "credito": {
+   "autor": "Matti Blume",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Honda%2C_Paris_Motor_Show_2018%2C_Paris_%281Y7A1625%29_%28cropped%29.jpg"
+  }
+ },
+ {
+  "id": "corvette-c8",
+  "marca": "Chevrolet",
+  "modelo": "Corvette Stingray (C8)",
+  "nombre": "Chevrolet Corvette Stingray (C8)",
+  "anio": 2020,
+  "categoria": "Deportivo",
+  "pais": "Estados Unidos",
+  "hp": 495,
+  "epoca": "Moderno",
+  "descripcion": "La primera Corvette de motor central de producción.",
+  "imagen": "/static/autos/corvette-c8.jpg",
+  "credito": {
+   "autor": "Alexander Migl",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_C8_IAA_2021_1X7A0156.jpg"
+  }
+ },
+ {
+  "id": "mustang-gt-2015",
+  "marca": "Ford",
+  "modelo": "Mustang GT (S550)",
+  "nombre": "Ford Mustang GT (S550)",
+  "anio": 2015,
+  "categoria": "Muscle car",
+  "pais": "Estados Unidos",
+  "hp": 435,
+  "epoca": "Moderno",
+  "descripcion": "V8 Coyote de 5.0 litros y suspensión trasera independiente.",
+  "imagen": "/static/autos/mustang-gt-2015.jpg",
+  "credito": {
+   "autor": "Vauxford",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2019_Ford_Mustang_GT_5.0_facelift.jpg"
+  }
+ },
+ {
+  "id": "challenger-hellcat",
+  "marca": "Dodge",
+  "modelo": "Challenger SRT Hellcat",
+  "nombre": "Dodge Challenger SRT Hellcat",
+  "anio": 2015,
+  "categoria": "Muscle car",
+  "pais": "Estados Unidos",
+  "hp": 707,
+  "epoca": "Moderno",
+  "descripcion": "V8 sobrealimentado de 6.2 litros, muscle car con más de 700 hp.",
+  "imagen": "/static/autos/challenger-hellcat.jpg",
+  "credito": {
+   "autor": "Ermell",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Dodge_Challenger_SRT8_%282015%29_Hirschaid-20220709-RM-120221_%28cropped%29.jpg"
+  }
+ },
+ {
+  "id": "dodge-viper",
+  "marca": "Dodge",
+  "modelo": "Viper ACR",
+  "nombre": "Dodge Viper ACR",
+  "anio": 2013,
+  "categoria": "Superdeportivo",
+  "pais": "Estados Unidos",
+  "hp": 640,
+  "epoca": "Moderno",
+  "descripcion": "V10 de 8.4 litros, sin ayudas electrónicas excesivas.",
+  "imagen": "/static/autos/dodge-viper.jpg",
+  "credito": {
+   "autor": "Patrick Corcoran",
+   "licencia": "CC BY 2.0 it",
+   "fuente": "https://commons.wikimedia.org/wiki/File:%22_14_Fiat-Chrysler_SRT_Viper_GTS_%28cropped%29.jpg"
+  }
+ },
+ {
+  "id": "audi-r8",
+  "marca": "Audi",
+  "modelo": "R8 V10",
+  "nombre": "Audi R8 V10",
+  "anio": 2015,
+  "categoria": "Superdeportivo",
+  "pais": "Alemania",
+  "hp": 540,
+  "epoca": "Moderno",
+  "descripcion": "V10 atmosférico y tracción quattro, un superdeportivo cotidiano.",
+  "imagen": "/static/autos/audi-r8.jpg",
+  "credito": {
+   "autor": "Vauxford",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Audi_R8_Coupe_V10_plus_Front.jpg"
+  }
+ },
+ {
+  "id": "bmw-m3-g80",
+  "marca": "BMW",
+  "modelo": "M3 Competition (G80)",
+  "nombre": "BMW M3 Competition (G80)",
+  "anio": 2021,
+  "categoria": "Deportivo",
+  "pais": "Alemania",
+  "hp": 503,
+  "epoca": "Moderno",
+  "descripcion": "Sedán de seis cilindros biturbo con ADN de pista.",
+  "imagen": "/static/autos/bmw-m3-g80.jpg",
+  "credito": {
+   "autor": "Alexander Migl",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:BMW_M3_Competition_%28G80%29_IMG_4041.jpg"
+  }
+ },
+ {
+  "id": "mercedes-amg-gt",
+  "marca": "Mercedes-AMG",
+  "modelo": "GT",
+  "nombre": "Mercedes-AMG GT",
+  "anio": 2015,
+  "categoria": "Deportivo",
+  "pais": "Alemania",
+  "hp": 503,
+  "epoca": "Moderno",
+  "descripcion": "Largo capó, V8 biturbo y motor delantero-central.",
+  "imagen": "/static/autos/mercedes-amg-gt.jpg",
+  "credito": {
+   "autor": "Thesupermat",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Festival_automobile_international_2015_-_Mercedes_AMG_GT_-_003.jpg"
+  }
+ },
+ {
+  "id": "aston-db11",
+  "marca": "Aston Martin",
+  "modelo": "DB11",
+  "nombre": "Aston Martin DB11",
+  "anio": 2016,
+  "categoria": "Deportivo",
+  "pais": "Reino Unido",
+  "hp": 503,
+  "epoca": "Moderno",
+  "descripcion": "Gran turismo elegante con V12 biturbo.",
+  "imagen": "/static/autos/aston-db11.jpg",
+  "credito": {
+   "autor": "Vauxford",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2018_Aston_Martin_DB11_V8_Automatic_4.0_Front.jpg"
+  }
+ },
+ {
+  "id": "aston-vantage-2018",
+  "marca": "Aston Martin",
+  "modelo": "Vantage",
+  "nombre": "Aston Martin Vantage",
+  "anio": 2018,
+  "categoria": "Deportivo",
+  "pais": "Reino Unido",
+  "hp": 503,
+  "epoca": "Moderno",
+  "descripcion": "V8 de origen AMG en un cuerpo compacto y agresivo.",
+  "imagen": "/static/autos/aston-vantage-2018.jpg",
+  "credito": {
+   "autor": "Vauxford",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2019_Aston_Martin_Vantage_V8_Automatic_4.0_%281%29.jpg"
+  }
+ },
+ {
+  "id": "jaguar-f-type",
+  "marca": "Jaguar",
+  "modelo": "F-Type",
+  "nombre": "Jaguar F-Type",
+  "anio": 2013,
+  "categoria": "Deportivo",
+  "pais": "Reino Unido",
+  "hp": 380,
+  "epoca": "Moderno",
+  "descripcion": "Biplaza con escape sonoro y herencia del E-Type.",
+  "imagen": "/static/autos/jaguar-f-type.jpg",
+  "credito": {
+   "autor": "Vauxford",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2017_Jaguar_F-Type_V6_R-Dynamic_Automatic_3.0_Front.jpg"
+  }
+ },
+ {
+  "id": "alfa-romeo-4c",
+  "marca": "Alfa Romeo",
+  "modelo": "4C",
+  "nombre": "Alfa Romeo 4C",
+  "anio": 2013,
+  "categoria": "Deportivo",
+  "pais": "Italia",
+  "hp": 237,
+  "epoca": "Moderno",
+  "descripcion": "Chasis de fibra de carbono con solo 900 kg de peso.",
+  "imagen": "/static/autos/alfa-romeo-4c.jpg",
+  "credito": {
+   "autor": "Thesupermat",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Festival_automobile_international_2014_-_Alfa_Romeo_4C_-_009.jpg"
+  }
+ },
+ {
+  "id": "lotus-emira",
+  "marca": "Lotus",
+  "modelo": "Emira",
+  "nombre": "Lotus Emira",
+  "anio": 2022,
+  "categoria": "Deportivo",
+  "pais": "Reino Unido",
+  "hp": 400,
+  "epoca": "Moderno",
+  "descripcion": "El último Lotus de combustión, ligero y muy preciso.",
+  "imagen": "/static/autos/lotus-emira.jpg",
+  "credito": {
+   "autor": "Mr.choppers",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2025_Lotus_Emira_V6_in_Vivid_Red%2C_front_right.jpg"
+  }
+ },
+ {
+  "id": "koenigsegg-jesko",
+  "marca": "Koenigsegg",
+  "modelo": "Jesko",
+  "nombre": "Koenigsegg Jesko",
+  "anio": 2020,
+  "categoria": "Superdeportivo",
+  "pais": "Suecia",
+  "hp": 1600,
+  "epoca": "Moderno",
+  "descripcion": "Hiperdeportivo con 1600 hp alimentado con biocombustible.",
+  "imagen": "/static/autos/koenigsegg-jesko.jpg",
+  "credito": {
+   "autor": "Matti Blume",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0833%29.jpg"
+  }
+ },
+ {
+  "id": "pagani-huayra",
+  "marca": "Pagani",
+  "modelo": "Huayra",
+  "nombre": "Pagani Huayra",
+  "anio": 2012,
+  "categoria": "Superdeportivo",
+  "pais": "Italia",
+  "hp": 720,
+  "epoca": "Moderno",
+  "descripcion": "Obra de arte artesanal con V12 de Mercedes-AMG.",
+  "imagen": "/static/autos/pagani-huayra.jpg",
+  "credito": {
+   "autor": "Matti Blume",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Pagani%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0023%29.jpg"
+  }
+ },
+ {
+  "id": "ford-gt-2017",
+  "marca": "Ford",
+  "modelo": "GT",
+  "nombre": "Ford GT",
+  "anio": 2017,
+  "categoria": "Superdeportivo",
+  "pais": "Estados Unidos",
+  "hp": 647,
+  "epoca": "Moderno",
+  "descripcion": "Nacido para ganar Le Mans, con V6 biturbo.",
+  "imagen": "/static/autos/ford-gt-2017.jpg",
+  "credito": {
+   "autor": "Jiří Sedláček",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ford_GT_2018_and_Ford_GT_1968_at_Legendy_2019_in_Prague_%28cropped%29.jpg"
+  }
+ },
+ {
+  "id": "subaru-wrx-sti",
+  "marca": "Subaru",
+  "modelo": "WRX (2022)",
+  "nombre": "Subaru WRX (2022)",
+  "anio": 2021,
+  "categoria": "Deportivo",
+  "pais": "Japón",
+  "hp": 271,
+  "epoca": "Moderno",
+  "descripcion": "Tracción integral simétrica y alma de rally en un sedán cotidiano.",
+  "imagen": "/static/autos/subaru-wrx-sti.jpg",
+  "credito": {
+   "autor": "Elise240SX",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2022_Subaru_WRX_Sport-Tech_in_World_Rally_Blue_Pearl%2C_Front_Left%2C_06-03-2022.jpg"
+  }
+ },
+ {
+  "id": "mitsubishi-evo-x",
+  "marca": "Mitsubishi",
+  "modelo": "Lancer Evolution X",
+  "nombre": "Mitsubishi Lancer Evolution X",
+  "anio": 2008,
+  "categoria": "Deportivo",
+  "pais": "Japón",
+  "hp": 291,
+  "epoca": "Moderno",
+  "descripcion": "Sedán de rally con diferenciales activos.",
+  "imagen": "/static/autos/mitsubishi-evo-x.jpg",
+  "credito": {
+   "autor": "Klaus Nahr",
+   "licencia": "CC BY-SA 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2017-04-02_Mitsubishi_Lancer_Evolution_X_MR_SST_14_%282%29.jpg"
+  }
+ },
+ {
+  "id": "lexus-lc-500",
+  "marca": "Lexus",
+  "modelo": "LC 500",
+  "nombre": "Lexus LC 500",
+  "anio": 2017,
+  "categoria": "Deportivo",
+  "pais": "Japón",
+  "hp": 471,
+  "epoca": "Moderno",
+  "descripcion": "Cupé de lujo con un V8 atmosférico que suena a otra época.",
+  "imagen": "/static/autos/lexus-lc-500.jpg",
+  "credito": {
+   "autor": "Mr.choppers",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2023_Lexus_LC500_in_Atomic_Silver%2C_front_left.jpg"
+  }
+ },
+ {
+  "id": "maserati-mc20",
+  "marca": "Maserati",
+  "modelo": "MC20",
+  "nombre": "Maserati MC20",
+  "anio": 2020,
+  "categoria": "Superdeportivo",
+  "pais": "Italia",
+  "hp": 621,
+  "epoca": "Moderno",
+  "descripcion": "Motor Nettuno V6 con prechamber y chasis de carbono.",
+  "imagen": "/static/autos/maserati-mc20.jpg",
+  "credito": {
+   "autor": "Alexander Migl",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Maserati_MC20_IAA_2021_1X7A0087.jpg"
+  }
+ },
+ {
+  "id": "tesla-model-s-plaid",
+  "marca": "Tesla",
+  "modelo": "Model S",
+  "nombre": "Tesla Model S",
+  "anio": 2016,
+  "categoria": "Deportivo",
+  "pais": "Estados Unidos",
+  "hp": 762,
+  "epoca": "Moderno",
+  "descripcion": "Eléctrico de cinco plazas con aceleración de superdeportivo.",
+  "imagen": "/static/autos/tesla-model-s-plaid.jpg",
+  "credito": {
+   "autor": "Peteratkins",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Tesla_Model_S_%28Facelift_ab_04-2016%29_%28cropped%29.jpg"
+  }
+ },
+ {
+  "id": "porsche-taycan",
+  "marca": "Porsche",
+  "modelo": "Taycan Turbo S",
+  "nombre": "Porsche Taycan Turbo S",
+  "anio": 2019,
+  "categoria": "Deportivo",
+  "pais": "Alemania",
+  "hp": 750,
+  "epoca": "Moderno",
+  "descripcion": "El deportivo eléctrico de Porsche con carga ultrarrápida.",
+  "imagen": "/static/autos/porsche-taycan.jpg",
+  "credito": {
+   "autor": "Vauxford",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2020_Porsche_Taycan_4S_79kWh_Front.jpg"
+  }
+ },
+ {
+  "id": "ferrari-f40",
+  "marca": "Ferrari",
+  "modelo": "F40",
+  "nombre": "Ferrari F40",
+  "anio": 1987,
+  "categoria": "Clásico deportivo",
+  "pais": "Italia",
+  "hp": 471,
+  "epoca": "Clásico",
+  "descripcion": "El último Ferrari aprobado por Enzo, sin ayudas y con turbo.",
+  "imagen": "/static/autos/ferrari-f40.jpg",
+  "credito": {
+   "autor": "Will ainsworth",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:F40_Ferrari_20090509.jpg"
+  }
+ },
+ {
+  "id": "ferrari-testarossa",
+  "marca": "Ferrari",
+  "modelo": "Testarossa",
+  "nombre": "Ferrari Testarossa",
+  "anio": 1984,
+  "categoria": "Clásico deportivo",
+  "pais": "Italia",
+  "hp": 385,
+  "epoca": "Clásico",
+  "descripcion": "Icono de los ochenta con sus laterales de rejillas.",
+  "imagen": "/static/autos/ferrari-testarossa.jpg",
+  "credito": {
+   "autor": "Alexander Migl",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Ferrari_Testarossa_IMG_3043.jpg"
+  }
+ },
+ {
+  "id": "ferrari-250-gto",
+  "marca": "Ferrari",
+  "modelo": "250 GTO",
+  "nombre": "Ferrari 250 GTO",
+  "anio": 1962,
+  "categoria": "Clásico deportivo",
+  "pais": "Italia",
+  "hp": 296,
+  "epoca": "Clásico",
+  "descripcion": "Uno de los autos más valiosos y deseados de todos los tiempos.",
+  "imagen": "/static/autos/ferrari-250-gto.jpg",
+  "credito": {
+   "autor": "MrWalkr",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1962_Ferrari_250_GTO_SP25.jpg"
+  }
+ },
+ {
+  "id": "ferrari-daytona",
+  "marca": "Ferrari",
+  "modelo": "365 GTB/4 Daytona",
+  "nombre": "Ferrari 365 GTB/4 Daytona",
+  "anio": 1968,
+  "categoria": "Clásico deportivo",
+  "pais": "Italia",
+  "hp": 352,
+  "epoca": "Clásico",
+  "descripcion": "Gran turismo con V12 delantero y líneas de Pininfarina.",
+  "imagen": "/static/autos/ferrari-daytona.jpg",
+  "credito": {
+   "autor": "MrWalkr",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1973_Ferrari_Daytona_365_GTB4_Blue_LC22.jpg"
+  }
+ },
+ {
+  "id": "lamborghini-countach",
+  "marca": "Lamborghini",
+  "modelo": "Countach",
+  "nombre": "Lamborghini Countach",
+  "anio": 1974,
+  "categoria": "Clásico deportivo",
+  "pais": "Italia",
+  "hp": 375,
+  "epoca": "Clásico",
+  "descripcion": "El póster de millones de habitaciones, con puertas de tijera.",
+  "imagen": "/static/autos/lamborghini-countach.jpg",
+  "credito": {
+   "autor": "Brian Snelson from Hockley, Essex, England",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Lamborghini_Countach_-_Flickr_-_exfordy_%282%29_%28cropped-2%29.jpg"
+  }
+ },
+ {
+  "id": "lamborghini-miura",
+  "marca": "Lamborghini",
+  "modelo": "Miura",
+  "nombre": "Lamborghini Miura",
+  "anio": 1966,
+  "categoria": "Clásico deportivo",
+  "pais": "Italia",
+  "hp": 350,
+  "epoca": "Clásico",
+  "descripcion": "El primer superdeportivo de motor central trasero.",
+  "imagen": "/static/autos/lamborghini-miura.jpg",
+  "credito": {
+   "autor": "Chelsea Jay",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1971_Lamborghini_Miura_P400_SV.jpg"
+  }
+ },
+ {
+  "id": "porsche-911-turbo-930",
+  "marca": "Porsche",
+  "modelo": "911 Turbo (930)",
+  "nombre": "Porsche 911 Turbo (930)",
+  "anio": 1975,
+  "categoria": "Clásico deportivo",
+  "pais": "Alemania",
+  "hp": 260,
+  "epoca": "Clásico",
+  "descripcion": "El 'widowmaker' con turbo y el famoso alerón cola de ballena.",
+  "imagen": "/static/autos/porsche-911-turbo-930.jpg",
+  "credito": {
+   "autor": "Mr.choppers",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1976_Porsche_930_Turbo%2C_Emerald_Green_met%2C_front_left.jpg"
+  }
+ },
+ {
+  "id": "porsche-356",
+  "marca": "Porsche",
+  "modelo": "356",
+  "nombre": "Porsche 356",
+  "anio": 1955,
+  "categoria": "Clásico",
+  "pais": "Alemania",
+  "hp": 70,
+  "epoca": "Clásico",
+  "descripcion": "El primer Porsche: pequeño, ligero y elegante.",
+  "imagen": "/static/autos/porsche-356.jpg",
+  "credito": {
+   "autor": "Desconocido",
+   "licencia": "CC BY-SA 2.0 de",
+   "fuente": "https://commons.wikimedia.org/wiki/File:2007-07-08_Porsche_356_C_%2801_kl_ret%29.jpg"
+  }
+ },
+ {
+  "id": "porsche-959",
+  "marca": "Porsche",
+  "modelo": "959",
+  "nombre": "Porsche 959",
+  "anio": 1986,
+  "categoria": "Clásico deportivo",
+  "pais": "Alemania",
+  "hp": 444,
+  "epoca": "Clásico",
+  "descripcion": "Tecnología adelantada a su tiempo con tracción integral.",
+  "imagen": "/static/autos/porsche-959.jpg",
+  "credito": {
+   "autor": "M 93",
+   "licencia": "CC BY-SA 3.0 de",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Porsche_959_%E2%80%93_Frontansicht_%282%29%2C_21._M%C3%A4rz_2013%2C_D%C3%BCsseldorf.jpg"
+  }
+ },
+ {
+  "id": "mustang-1965",
+  "marca": "Ford",
+  "modelo": "Mustang (1965)",
+  "nombre": "Ford Mustang (1965)",
+  "anio": 1965,
+  "categoria": "Muscle car",
+  "pais": "Estados Unidos",
+  "hp": 271,
+  "epoca": "Clásico",
+  "descripcion": "Inventó el segmento pony car y fue un éxito de ventas inmediato.",
+  "imagen": "/static/autos/mustang-1965.jpg",
+  "credito": {
+   "autor": "Kroelleboelle",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1965_Ford_Mustang_2D_Hardtop_Front.jpg"
+  }
+ },
+ {
+  "id": "shelby-gt500",
+  "marca": "Ford",
+  "modelo": "Mustang Shelby GT350",
+  "nombre": "Ford Mustang Shelby GT350",
+  "anio": 1966,
+  "categoria": "Muscle car",
+  "pais": "Estados Unidos",
+  "hp": 306,
+  "epoca": "Clásico",
+  "descripcion": "Mustang preparado por Carroll Shelby para correr en pista, con sus franjas azules.",
+  "imagen": "/static/autos/shelby-gt500.jpg",
+  "credito": {
+   "autor": "Sicnag",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1965_Shelby_Mustang_GT350_%2820984175008%29_%28cropped%29.jpg"
+  }
+ },
+ {
+  "id": "camaro-1969",
+  "marca": "Chevrolet",
+  "modelo": "Camaro RS 327 (1968)",
+  "nombre": "Chevrolet Camaro RS 327 (1968)",
+  "anio": 1968,
+  "categoria": "Muscle car",
+  "pais": "Estados Unidos",
+  "hp": 275,
+  "epoca": "Clásico",
+  "descripcion": "La respuesta de Chevrolet al Mustang, aquí con el paquete RS y V8 de 327.",
+  "imagen": "/static/autos/camaro-1969.jpg",
+  "credito": {
+   "autor": "Sicnag",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Chevrolet_Camaro_RS_327_1968_%28cropped%29.jpg"
+  }
+ },
+ {
+  "id": "corvette-c2",
+  "marca": "Chevrolet",
+  "modelo": "Corvette Sting Ray (C2)",
+  "nombre": "Chevrolet Corvette Sting Ray (C2)",
+  "anio": 1963,
+  "categoria": "Clásico deportivo",
+  "pais": "Estados Unidos",
+  "hp": 360,
+  "epoca": "Clásico",
+  "descripcion": "Con su ventana trasera dividida, un clásico de diseño.",
+  "imagen": "/static/autos/corvette-c2.jpg",
+  "credito": {
+   "autor": "MercurySable99",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1963_Chevrolet_Corvette_Sting_Ray_Sport_Coupe%2C_front_left%2C_08-25-2024.jpg"
+  }
+ },
+ {
+  "id": "dodge-charger-1969",
+  "marca": "Dodge",
+  "modelo": "Charger R/T (1969)",
+  "nombre": "Dodge Charger R/T (1969)",
+  "anio": 1969,
+  "categoria": "Muscle car",
+  "pais": "Estados Unidos",
+  "hp": 375,
+  "epoca": "Clásico",
+  "descripcion": "Estrella del cine y de las calles, con V8 Hemi opcional.",
+  "imagen": "/static/autos/dodge-charger-1969.jpg",
+  "credito": {
+   "autor": "MercurySable99",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1969_Dodge_Charger_R-T%2C_front_right_%282022_Ellwood_City_Fall_Fest_%26_Car_Cruise%29.jpg"
+  }
+ },
+ {
+  "id": "plymouth-barracuda",
+  "marca": "Plymouth",
+  "modelo": "Hemi 'Cuda",
+  "nombre": "Plymouth Hemi 'Cuda",
+  "anio": 1970,
+  "categoria": "Muscle car",
+  "pais": "Estados Unidos",
+  "hp": 425,
+  "epoca": "Clásico",
+  "descripcion": "Uno de los muscle cars más raros y cotizados.",
+  "imagen": "/static/autos/plymouth-barracuda.jpg",
+  "credito": {
+   "autor": "Greg Gjerdingen from Willmar, USA",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1970_Plymouth_%27Cuda_%2828085938680%29.jpg"
+  }
+ },
+ {
+  "id": "shelby-cobra-427",
+  "marca": "Shelby",
+  "modelo": "Cobra 427",
+  "nombre": "Shelby Cobra 427",
+  "anio": 1965,
+  "categoria": "Clásico deportivo",
+  "pais": "Estados Unidos",
+  "hp": 425,
+  "epoca": "Clásico",
+  "descripcion": "Chasis liviano de AC con un enorme V8: un misil con ruedas.",
+  "imagen": "/static/autos/shelby-cobra-427.jpg",
+  "credito": {
+   "autor": "Stahlkocher",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Shelby_AC_427_Cobra_vl_blue.jpg"
+  }
+ },
+ {
+  "id": "jaguar-e-type",
+  "marca": "Jaguar",
+  "modelo": "E-Type",
+  "nombre": "Jaguar E-Type",
+  "anio": 1961,
+  "categoria": "Clásico deportivo",
+  "pais": "Reino Unido",
+  "hp": 265,
+  "epoca": "Clásico",
+  "descripcion": "'El auto más bello del mundo', según Enzo Ferrari.",
+  "imagen": "/static/autos/jaguar-e-type.jpg",
+  "credito": {
+   "autor": "DeFacto",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Jaguar_E-Type_Series_1_3.8_Litre_1961.jpg"
+  }
+ },
+ {
+  "id": "aston-db5",
+  "marca": "Aston Martin",
+  "modelo": "DB5",
+  "nombre": "Aston Martin DB5",
+  "anio": 1963,
+  "categoria": "Clásico deportivo",
+  "pais": "Reino Unido",
+  "hp": 282,
+  "epoca": "Clásico",
+  "descripcion": "El auto de James Bond por excelencia.",
+  "imagen": "/static/autos/aston-db5.jpg",
+  "credito": {
+   "autor": "DeFacto",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Aston_Martin_DB5_%28Skyfall%29.jpg"
+  }
+ },
+ {
+  "id": "mercedes-300sl",
+  "marca": "Mercedes-Benz",
+  "modelo": "300 SL Gullwing",
+  "nombre": "Mercedes-Benz 300 SL Gullwing",
+  "anio": 1954,
+  "categoria": "Clásico deportivo",
+  "pais": "Alemania",
+  "hp": 215,
+  "epoca": "Clásico",
+  "descripcion": "Con puertas alas de gaviota e inyección directa pionera.",
+  "imagen": "/static/autos/mercedes-300sl.jpg",
+  "credito": {
+   "autor": "Bahnfrend",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Fox_Classic_Car_Collection%2C_2008_%2802%29.JPG"
+  }
+ },
+ {
+  "id": "datsun-240z",
+  "marca": "Datsun",
+  "modelo": "240Z",
+  "nombre": "Datsun 240Z",
+  "anio": 1970,
+  "categoria": "Clásico deportivo",
+  "pais": "Japón",
+  "hp": 151,
+  "epoca": "Clásico",
+  "descripcion": "Deportivo japonés accesible que conquistó Estados Unidos.",
+  "imagen": "/static/autos/datsun-240z.jpg",
+  "credito": {
+   "autor": "TTTNIS",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1970-1973_Nissan_Fairlady_Z.jpg"
+  }
+ },
+ {
+  "id": "toyota-2000gt",
+  "marca": "Toyota",
+  "modelo": "2000GT",
+  "nombre": "Toyota 2000GT",
+  "anio": 1967,
+  "categoria": "Clásico deportivo",
+  "pais": "Japón",
+  "hp": 150,
+  "epoca": "Clásico",
+  "descripcion": "El primer superdeportivo japonés, protagonista de una película de Bond.",
+  "imagen": "/static/autos/toyota-2000gt.jpg",
+  "credito": {
+   "autor": "Desconocido",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:TOYOTA_2000GT.jpg"
+  }
+ },
+ {
+  "id": "nissan-skyline-r34",
+  "marca": "Nissan",
+  "modelo": "Skyline GT-R (R34)",
+  "nombre": "Nissan Skyline GT-R (R34)",
+  "anio": 1999,
+  "categoria": "Clásico deportivo",
+  "pais": "Japón",
+  "hp": 276,
+  "epoca": "Clásico",
+  "descripcion": "Icono de los videojuegos y del JDM.",
+  "imagen": "/static/autos/nissan-skyline-r34.jpg",
+  "credito": {
+   "autor": "TTTNIS",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Nissan_Skyline_GT-R_R34_V_Spec_II.jpg"
+  }
+ },
+ {
+  "id": "mazda-rx7-fd",
+  "marca": "Mazda",
+  "modelo": "RX-7 (FD)",
+  "nombre": "Mazda RX-7 (FD)",
+  "anio": 1992,
+  "categoria": "Clásico deportivo",
+  "pais": "Japón",
+  "hp": 255,
+  "epoca": "Clásico",
+  "descripcion": "Motor rotativo biturbo y líneas muy puras.",
+  "imagen": "/static/autos/mazda-rx7-fd.jpg",
+  "credito": {
+   "autor": "Mr.choppers",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1994_Mazda_RX-7_R2_in_Vintage_Red%2C_front_left_%28Lime_Rock%29.jpg"
+  }
+ },
+ {
+  "id": "honda-nsx-1990",
+  "marca": "Honda",
+  "modelo": "NSX (1990)",
+  "nombre": "Honda NSX (1990)",
+  "anio": 1990,
+  "categoria": "Clásico deportivo",
+  "pais": "Japón",
+  "hp": 270,
+  "epoca": "Clásico",
+  "descripcion": "Superdeportivo japonés desarrollado con ayuda de Ayrton Senna.",
+  "imagen": "/static/autos/honda-nsx-1990.jpg",
+  "credito": {
+   "autor": "Travis Rigel Lukas Hornung",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:AcuraNSX-05-cropped.jpg"
+  }
+ },
+ {
+  "id": "vw-beetle",
+  "marca": "Volkswagen",
+  "modelo": "Beetle (Escarabajo)",
+  "nombre": "Volkswagen Beetle (Escarabajo)",
+  "anio": 1960,
+  "categoria": "Clásico",
+  "pais": "Alemania",
+  "hp": 40,
+  "epoca": "Clásico",
+  "descripcion": "El auto más producido de su época, simple y entrañable.",
+  "imagen": "/static/autos/vw-beetle.jpg",
+  "credito": {
+   "autor": "Vwexport1300",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:VW_K%C3%A4fer_Baujahr_1966.jpg"
+  }
+ },
+ {
+  "id": "mini-cooper-1964",
+  "marca": "Mini",
+  "modelo": "Mini (Morris Mini-Minor)",
+  "nombre": "Mini Morris Mini-Minor",
+  "anio": 1959,
+  "categoria": "Clásico",
+  "pais": "Reino Unido",
+  "hp": 34,
+  "epoca": "Clásico",
+  "descripcion": "El pequeño que revolucionó el diseño: motor transversal y espacio inteligente.",
+  "imagen": "/static/autos/mini-cooper-1964.jpg",
+  "credito": {
+   "autor": "DeFacto",
+   "licencia": "CC BY-SA 2.5",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Morris_Mini-Minor_1959_%28621_AOK%29.jpg"
+  }
+ },
+ {
+  "id": "chevrolet-bel-air-1957",
+  "marca": "Chevrolet",
+  "modelo": "Bel Air (1957)",
+  "nombre": "Chevrolet Bel Air (1957)",
+  "anio": 1957,
+  "categoria": "Clásico",
+  "pais": "Estados Unidos",
+  "hp": 283,
+  "epoca": "Clásico",
+  "descripcion": "El símbolo de los años cincuenta con sus aletas cromadas.",
+  "imagen": "/static/autos/chevrolet-bel-air-1957.jpg",
+  "credito": {
+   "autor": "Chevrolet pre-1978",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:57_Chevy_BelAir.jpg"
+  }
+ },
+ {
+  "id": "ford-model-t",
+  "marca": "Ford",
+  "modelo": "Model T",
+  "nombre": "Ford Model T",
+  "anio": 1920,
+  "categoria": "Clásico",
+  "pais": "Estados Unidos",
+  "hp": 20,
+  "epoca": "Clásico",
+  "descripcion": "El auto que puso al mundo sobre ruedas.",
+  "imagen": "/static/autos/ford-model-t.jpg",
+  "credito": {
+   "autor": "ModelTMitch",
+   "licencia": "Public domain",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1925_Ford_Model_T_touring.jpg"
+  }
+ },
+ {
+  "id": "lancia-stratos",
+  "marca": "Lancia",
+  "modelo": "Stratos HF",
+  "nombre": "Lancia Stratos HF",
+  "anio": 1973,
+  "categoria": "Clásico deportivo",
+  "pais": "Italia",
+  "hp": 190,
+  "epoca": "Clásico",
+  "descripcion": "Diseñado desde cero para ganar rallys.",
+  "imagen": "/static/autos/lancia-stratos.jpg",
+  "credito": {
+   "autor": "Mr.choppers",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1974_Lancia_Stratos_Stradale_at_Greenwich_2021%2C_front_left.jpg"
+  }
+ },
+ {
+  "id": "de-tomaso-pantera",
+  "marca": "De Tomaso",
+  "modelo": "Pantera",
+  "nombre": "De Tomaso Pantera",
+  "anio": 1971,
+  "categoria": "Clásico deportivo",
+  "pais": "Italia",
+  "hp": 310,
+  "epoca": "Clásico",
+  "descripcion": "Cuerpo italiano con corazón V8 de Ford.",
+  "imagen": "/static/autos/de-tomaso-pantera.jpg",
+  "credito": {
+   "autor": "MrWalkr",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1990_De_Tomaso_Pantera_GT5_S_LC23.jpg"
+  }
+ },
+ {
+  "id": "delorean-dmc12",
+  "marca": "DeLorean",
+  "modelo": "DMC-12",
+  "nombre": "DeLorean DMC-12",
+  "anio": 1981,
+  "categoria": "Clásico",
+  "pais": "Estados Unidos",
+  "hp": 130,
+  "epoca": "Clásico",
+  "descripcion": "Carrocería de acero inoxidable y fama gracias a 'Volver al futuro'.",
+  "imagen": "/static/autos/delorean-dmc12.jpg",
+  "credito": {
+   "autor": "Kevin Abato, www.grenexmedia.com",
+   "licencia": "CC BY-SA 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Delorean_DMC-12_side.jpg"
+  }
+ },
+ {
+  "id": "alfa-romeo-spider",
+  "marca": "Alfa Romeo",
+  "modelo": "Spider Duetto",
+  "nombre": "Alfa Romeo Spider Duetto",
+  "anio": 1966,
+  "categoria": "Clásico",
+  "pais": "Italia",
+  "hp": 109,
+  "epoca": "Clásico",
+  "descripcion": "Roadster elegante inmortalizado en 'El graduado'.",
+  "imagen": "/static/autos/alfa-romeo-spider.jpg",
+  "credito": {
+   "autor": "Marco 56",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_Spider_%2824928094612%29_%28cropped%29.jpg"
+  }
+ },
+ {
+  "id": "jaguar-xj220",
+  "marca": "Jaguar",
+  "modelo": "XJ220",
+  "nombre": "Jaguar XJ220",
+  "anio": 1992,
+  "categoria": "Clásico deportivo",
+  "pais": "Reino Unido",
+  "hp": 542,
+  "epoca": "Clásico",
+  "descripcion": "Fue el auto de producción más rápido del mundo en su día.",
+  "imagen": "/static/autos/jaguar-xj220.jpg",
+  "credito": {
+   "autor": "Brian Snelson",
+   "licencia": "CC BY 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:JaguarXJ220.jpg"
+  }
+ },
+ {
+  "id": "mclaren-f1",
+  "marca": "McLaren",
+  "modelo": "F1",
+  "nombre": "McLaren F1",
+  "anio": 1992,
+  "categoria": "Clásico deportivo",
+  "pais": "Reino Unido",
+  "hp": 618,
+  "epoca": "Clásico",
+  "descripcion": "Tres asientos, V12 de BMW y revestimiento de oro en el motor.",
+  "imagen": "/static/autos/mclaren-f1.jpg",
+  "credito": {
+   "autor": "Chelsea Jay",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:1996_McLaren_F1_Chassis_No_63_6.1_Front.jpg"
+  }
+ }
+]

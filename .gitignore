@@ -1,0 +1,12 @@
+# entornos y dependencias
+.venv/
+node_modules/
+__pycache__/
+.pytest_cache/
+# skills / herramientas de agente (no necesarias)
+.claude/
+.agents/
+skills-lock.json
+graphify-out/
+.DS_Store
+frontend/dist/

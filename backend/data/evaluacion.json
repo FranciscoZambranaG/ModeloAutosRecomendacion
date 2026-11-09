@@ -1,0 +1,80 @@
+{
+ "descripcion": "Validación repetida con 5 particiones; se oculta ~25% de las notas de cada usuario.",
+ "n_usuarios": 120,
+ "n_autos": 69,
+ "n_calificaciones": 2427,
+ "metodos": {
+  "base": {
+   "nombre": "Promedio del auto (línea base)",
+   "rmse": 0.9885459943993222,
+   "cobertura": 1.0
+  },
+  "usuarios": {
+   "nombre": "Por usuarios",
+   "rmse": 0.9320172516603242,
+   "cobertura": 1.0
+  },
+  "items": {
+   "nombre": "Por ítems",
+   "rmse": 0.8836266519299194,
+   "cobertura": 1.0
+  },
+  "svd": {
+   "nombre": "SVD (factores ocultos)",
+   "rmse": 0.8848230348379761,
+   "cobertura": 1.0
+  },
+  "contenido": {
+   "nombre": "Por contenido",
+   "rmse": null,
+   "cobertura": 1.0
+  },
+  "popularidad": {
+   "nombre": "Los más populares (línea base)",
+   "rmse": null,
+   "cobertura": 1.0
+  },
+  "combinado": {
+   "nombre": "Combinado",
+   "rmse": null,
+   "cobertura": 1.0
+  }
+ },
+ "ranking": {
+  "popularidad": {
+   "acierto_10": 0.44357976653696496,
+   "precision_10": 0.054474708171206226
+  },
+  "usuarios": {
+   "acierto_10": 0.5583657587548638,
+   "precision_10": 0.07529182879377433
+  },
+  "items": {
+   "acierto_10": 0.566147859922179,
+   "precision_10": 0.07645914396887159
+  },
+  "contenido": {
+   "acierto_10": 0.6926070038910506,
+   "precision_10": 0.10311284046692606
+  },
+  "svd": {
+   "acierto_10": 0.5836575875486382,
+   "precision_10": 0.07684824902723736
+  },
+  "combinado": {
+   "acierto_10": 0.6789883268482491,
+   "precision_10": 0.09902723735408561
+  }
+ },
+ "curva_svd": {
+  "1": 0.9049536661004287,
+  "2": 0.8919222108901027,
+  "3": 0.8848230348379761,
+  "4": 0.8860944347823138,
+  "5": 0.8927771545155904,
+  "6": 0.8961458464631421,
+  "7": 0.8970196429947671,
+  "8": 0.8985406130432777
+ },
+ "k_svd": 3
+}
